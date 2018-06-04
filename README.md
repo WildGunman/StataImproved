@@ -3,10 +3,12 @@
 The Sublime Text 3 (ST3) is probably the most popular text editor under the macOS platform. This plugin (v.1.3.3) is committed to making the ST3 to be the favourable and handy Stata do-file editor for Mac users.  
 
 * This package has been accepted by the [Sublime Text package manager](https://packagecontrol.io/packages/Stata%20Improved%20Editor) on 16th Jan 2017.
-* Last edited on 12th Aug 2017 by [Zizhong Yan](mailto:helloyzz@gmail.com) and [Chuhong Wang](mailto:flora7819@gmail.com). Comments are welcome. 
+* Last edited on 28th May 2018 by [Zizhong Yan](mailto:helloyzz@gmail.com) and [Chuhong Wang](mailto:flora7819@gmail.com). Comments are welcome. 
 
 
 ## 🎼 News 🎼 
+**v1.3.4 (28/May/18)**: Some minor corrections. Also thanks for [WildGunman](https://github.com/WildGunman)'s suggestion on the [package config directories](https://github.com/zizhongyan/StataImproved/pull/12).
+
 **v1.3.3 (12/Aug/17)**: <kbd>CTRL</kbd>+<kbd>r</kbd> can **run** the code **quietly** in Stata (as opposed to **do** it noisily by <kbd>CTRL</kbd>+<kbd>d</kbd>). Thanks a lot for [Andrea Discacciati's](http://ki.se/en/people/anddis) suggestions.
 
 **v1.3.1 (05/Aug/17)**: Stata 15 introduced [the Markdown Document feature](http://www.stata.com/new-in-stata/markdown/) which allow users to convert their narrative text, code and outputs into a elegantly formatted document (e.g. Word, PDF, or HTML files). In this update, we provide the **snippests** and **syntax highlighting**  for users to code the Stata markdown script **efficiently** (Many thanks for [PJ Paul's](https://github.com/pjpaulpj) suggestions). [Please click here to see how to use it.](https://github.com/zizhongyan/StataImproved/blob/master/messages/markdown.md)
@@ -164,7 +166,7 @@ This plugin basically creates a temporary do-file, which is then sent to the Sta
 ## License
 MIT License
 
-Copyright (c) 2016-2017 Zizhong Yan & Chuhong Wang
+Copyright (c) 2016-2018 Zizhong Yan & Chuhong Wang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
